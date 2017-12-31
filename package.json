@@ -1,0 +1,25 @@
+{
+  "name": "physicsgame",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.2",
+    "http": "^0.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samueldahl/physicsgame.git"
+  },
+  "author": "",
+  "license": "GPL-3.0+",
+  "bugs": {
+    "url": "https://github.com/samueldahl/physicsgame/issues"
+  },
+  "homepage": "https://github.com/samueldahl/physicsgame#readme"
+}
